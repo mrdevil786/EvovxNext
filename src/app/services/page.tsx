@@ -1,7 +1,5 @@
 import Breadcrumb from "@/components/Common/Breadcrumb";
-import Contact from "@/components/Contact";
-import Services from "@/components/Services";
-
+import Features from "@/components/Features";
 
 import { Metadata } from "next";
 
@@ -18,7 +16,7 @@ const ServicePage = () => {
         pageName="Services Page"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
       />
-     <Contact />
+      <Features />
     </>
   );
 };
