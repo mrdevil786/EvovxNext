@@ -13,7 +13,7 @@ const Features = () => {
             center
           /> */}
           <SectionTitle
-            title="Our Services"
+            title="Main Services"
             paragraph=""
             center
           />
