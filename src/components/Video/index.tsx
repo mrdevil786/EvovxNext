@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are Ready to take your Business to next level"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Ready to take your Business to next level"
+          paragraph="Our dedicated team is committed to excellence, creativity, and client satisfaction. Partner with us to achieve your goals and elevate your business to new heights."
           center
           mb="80px"
         />

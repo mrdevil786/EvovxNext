@@ -12,7 +12,7 @@ const Hero = () => {
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
               <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  EVOVX Consultancy and Business Solution
+                  EVOVX Consultancy & Business Solution
                 </h1>
                 {/* <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   Free and Open-Source Next.js Template for Startup & SaaS
