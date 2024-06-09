@@ -15,17 +15,17 @@ const Footer = () => {
                     src="/images/logo/evovx.svg"
                     alt="logo"
                     className="w-full dark:hidden"
-                    width={30}
-                    height={20}
-                    style={{ width: '100px', height: '100px' }}
+                    width={140}
+                    height={30}
+                    style={{ height: '100px' }}
                   />
                   <Image
                     src="/images/logo/evovx-1.svg"
                     alt="logo"
                     className="hidden w-full dark:block"
-                    width={30}
-                    height={20}
-                    style={{ width: '100px', height: '100px' }}
+                    width={140}
+                    height={30}
+                    style={{ height: '100px' }}
                   />
                 </Link>
                 {/* <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
