@@ -1,6 +1,6 @@
 import AboutSectionOne from "@/components/About/AboutSectionOne";
 import AboutSectionTwo from "@/components/About/AboutSectionTwo";
-import Blog from "@/components/Blog";
+// import Blog from "@/components/Blog";
 import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
 import Contact from "@/components/Contact";
@@ -29,7 +29,7 @@ export default function Home() {
       <AboutSectionTwo />
       <Testimonials />
 {/*       <Pricing /> */}
-      <Blog />
+{/*       <Blog /> */}
       <Contact />
     </>
   );
